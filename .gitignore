@@ -4,6 +4,7 @@ web.config
 # Public Directory
 # public/**
 data
+dist
 config/dbconfig*
 *.txt
 
